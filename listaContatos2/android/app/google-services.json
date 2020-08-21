@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "603822928464",
+    "firebase_url": "https://teste-treino-b709e.firebaseio.com",
+    "project_id": "teste-treino-b709e",
+    "storage_bucket": "teste-treino-b709e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603822928464:android:7714c905320ca75fca5755",
+        "android_client_info": {
+          "package_name": "com.example.listaContatos2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603822928464-nahmpt4acngpqsebl7r10bgaddmdk6d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-LAQ67NneERSdqDgATs3R5uTKglgnsBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603822928464-nahmpt4acngpqsebl7r10bgaddmdk6d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
